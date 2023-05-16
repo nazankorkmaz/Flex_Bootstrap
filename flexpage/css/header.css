@@ -1,0 +1,15 @@
+.header_container{
+    display:flex;
+    
+   
+}
+.logo{
+    width: 10rem;
+    background: rgb(23, 72, 55);
+    height: 7rem;
+}
+.yan{
+    background-color: rgb(21, 122, 21);
+    height: 7rem;
+    width:100%;
+}

@@ -1,0 +1,17 @@
+aside{
+    background-color: grey;
+    margin-top: 2rem;
+   }
+
+   .container{
+    display: flex;
+    justify-content: center;
+   }
+  .box{
+    display: flex;
+    flex-direction: row;
+    width: 9rem;
+    height: 9rem;
+    background-color: rgb(161, 95, 14);
+    margin: 1rem;
+   }

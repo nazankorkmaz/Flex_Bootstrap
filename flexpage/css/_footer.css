@@ -1,0 +1,34 @@
+footer{
+    display: flex;
+    flex-direction: column;
+    background-color:rgb(176, 166, 161);
+    height: auto;
+    margin: 2rem;
+    
+   }
+
+form{
+    margin: 2rem;
+   }
+
+form input,textarea,button{
+    background-color: rgb(76, 91, 85);
+   
+   }
+
+form label,input
+   {
+    padding-top: 1.5rem;
+    padding-right: 15rem;
+   }
+
+
+button{
+   color: aliceblue;
+   padding: .8rem;
+   text-align: center;
+   margin-left: 20rem;
+
+
+}
+

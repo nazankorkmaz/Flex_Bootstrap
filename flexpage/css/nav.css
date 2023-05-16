@@ -1,0 +1,19 @@
+nav ul{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(15, 191, 76);
+}
+ul li {
+    
+    margin: 0;
+    padding: 2rem;
+    list-style: none;
+    
+    
+}
+ul li a{
+    text-decoration: none;
+    color: aliceblue;
+    font-weight: bold;
+
+}

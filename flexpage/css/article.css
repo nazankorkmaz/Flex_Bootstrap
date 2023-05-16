@@ -1,0 +1,13 @@
+article p{
+    text-align: center;
+    margin: 1rem;
+    color: aliceblue;
+    
+   }
+   article{
+    background-color: rgb(12, 83, 117);
+    width: 100%;
+    height: 20rem;
+    display: flex;
+    flex-direction: column;
+   }
